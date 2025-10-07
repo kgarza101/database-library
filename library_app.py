@@ -14,7 +14,7 @@ class LibraryBookApp:
             'host': 'localhost',
             'user': 'root', # use MySQL username
             'password': 'password', # use MySQL password (change before uploading to github)
-            'database': 'librarydb.mwb'
+            'database': 'librarydb'
         }
         
         self.widgets()
